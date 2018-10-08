@@ -43,7 +43,7 @@ github:
  - subject: Bachilore in Electronics and Communication 
  - school: University of Archraya Nagarjuna University
 
- #Work experience is required
+# Work experience
 roles:
  - title: Delivery Lead / SME /Lead
    start: 2010
