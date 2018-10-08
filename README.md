@@ -14,8 +14,7 @@ primarylinks:
   - Microsoft Certified System engineer -MCSE
   - ITIL v4
 
-#Any buzzword skills you want to include
-skills:
+#Skills: 
  - AWS Architech
  - GITHUB
  - Jenkins
