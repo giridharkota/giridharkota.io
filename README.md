@@ -32,34 +32,34 @@ skills:
 github:
  - https://github.com/giridharkota/shell-script
  
-#Education is required
+# Education is required
 education:
- # level: Master of Science (M.Sc.)
+ #level: Master of Science (M.Sc.)
  - date: 1999
  - subject: Masters in Electronics and Communication 
  - school: University of Archraya Nagarjuna University
    
- # level: Bachlore of Science (B.Sc.)
+ #level: Bachlore of Science (B.Sc.)
  - date: 1997
  - subject: Bachilore in Electronics and Communication 
  - school: University of Archraya Nagarjuna University
 
  #Work experience is required
 roles:
- - title: Senior Engineer
+ - title: Delivery Lead / SME /Lead
    start: 2010
    end: Onging 
    employer: HPE / EIT / DXC.Technology
-   description:	 Delivery Lead / SME /Lead
+   description:	 
    
- - title: Senior Engineer
+ - title: ITO Consultent
    start: 2006
    end: 2010
    employer: HP / HPE
    description: ITO Consulant - level 2-3
    
- - title: Associate Manager
+ - title: Server Management Engineer
    start: 2005
    end: 2006
    employer: DS UNICS Infotech
-   description: Server Management Engineer.
+   description: 
