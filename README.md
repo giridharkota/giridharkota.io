@@ -1,5 +1,5 @@
 # GiridharKota
-My Resume title: GIRIDHAR KOTA
+Infrasture Support ( AWS | Devops | Hadoop | SAP | Backup and Storage)
 #User specific content
 primarylinks:
  - title: GitHub
@@ -35,14 +35,14 @@ github:
 #Education is required
 education:
  - level: Master of Science (M.Sc.)
-   date: 1999
-   subject: Masters in Electronics and Communication 
-   school: University of Archraya Nagarjuna University
+ - date: 1999
+ - subject: Masters in Electronics and Communication 
+ - school: University of Archraya Nagarjuna University
    
  - level: Bachlore of Science (B.Sc.)
-   date: 1997
-   subject: Bachilore in Electronics and Communication 
-   school: University of Archraya Nagarjuna University
+ - date: 1997
+ - subject: Bachilore in Electronics and Communication 
+ - school: University of Archraya Nagarjuna University
 
  #Work experience is required
 roles:
