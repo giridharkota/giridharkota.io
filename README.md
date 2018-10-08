@@ -34,12 +34,12 @@ github:
  
 #Education is required
 education:
- - level: Master of Science (M.Sc.)
+ # level: Master of Science (M.Sc.)
  - date: 1999
  - subject: Masters in Electronics and Communication 
  - school: University of Archraya Nagarjuna University
    
- - level: Bachlore of Science (B.Sc.)
+ # level: Bachlore of Science (B.Sc.)
  - date: 1997
  - subject: Bachilore in Electronics and Communication 
  - school: University of Archraya Nagarjuna University
