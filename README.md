@@ -1,4 +1,4 @@
-# giridharkota.io
+# GiridharKota
 My Resume title: GIRIDHAR KOTA
 #User specific content
 primarylinks:
