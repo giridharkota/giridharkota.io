@@ -28,7 +28,7 @@ skills:
  - SAP NW /HANA
  - Bigdata - Cloudera
  
-#List of interesting Github repo/projects - optional
+#List of contribution - optional
 github:
  - https://github.com/giridharkota/shell-script
  
