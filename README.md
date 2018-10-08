@@ -32,8 +32,7 @@ skills:
 github:
  - https://github.com/giridharkota/shell-script
  
-# Education is required
-education:
+# Education
  #level: Master of Science (M.Sc.)
  - date: 1999
  - subject: Masters in Electronics and Communication 
