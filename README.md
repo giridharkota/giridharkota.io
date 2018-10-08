@@ -39,7 +39,7 @@ education:
    subject: Masters in Electronics and Communication 
    school: University of Archraya Nagarjuna University
    
-  - level: Bachlore of Science (B.Sc.)
+ - level: Bachlore of Science (B.Sc.)
    date: 1997
    subject: Bachilore in Electronics and Communication 
    school: University of Archraya Nagarjuna University
