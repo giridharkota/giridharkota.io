@@ -1,9 +1,7 @@
 # giridharkota.io
 My Resume title: GIRIDHAR KOTA
 #User specific content
-#Links that will appear in the navbar
 primarylinks:
- 
  - title: GitHub
    url: https://github.com/giridharkota/giridharkota.github.io/
  - title: LinkedIn
@@ -45,7 +43,6 @@ education:
    date: 1997
    subject: Bachilore in Electronics and Communication 
    school: University of Archraya Nagarjuna University
-
 
  #Work experience is required
 roles:
