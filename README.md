@@ -1,5 +1,5 @@
 # Giridhar Kota 
-## infrastructure Architect ( AWS | Devops | SAP | Backup & Storage | Linux | Windows )
+## Infrastructure Architect ( AWS | Devops | SAP | Backup & Storage | Linux | Windows )
 ###User specific content
 primarylinks:
  - GitHub
@@ -35,25 +35,25 @@ github:
  - https://github.com/giridharkota/shell-script
  
 # Education
- #level: Master of Science (M.Sc.)
- - date: 1999
- - subject: Masters in Electronics and Communication 
- - school: University of Archraya Nagarjuna University
+ # Master of Science (M.Sc.)
+ - Year: 1999
+ - Subject: Masters in Electronics and Communication 
+ - School: University of Archraya Nagarjuna University
    
- #level: Bachlore of Science (B.Sc.)
- - date: 1997
- - subject: Bachilore in Electronics and Communication 
- - school: University of Archraya Nagarjuna University
+ #Bachlore of Science (B.Sc.)
+ - Year: 1997
+ - Subject: Bachilore in Electronics and Communication 
+ - School: University of Archraya Nagarjuna University
 
 # Work experience
-roles:
+Roles:
  - title: Delivery Lead / SME /Lead
    start: 2010
    end: Onging 
    employer: HPE / EIT / DXC.Technology
    description:	 
    
- - title: ITO Consultent
+ - Title: ITO Consultent
    start: 2006
    end: 2010
    employer: HP / HPE
