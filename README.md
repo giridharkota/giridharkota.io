@@ -1,6 +1,5 @@
-# GiridharKota
-Infrasture Support ( AWS | Devops | Hadoop | SAP | Backup and Storage)
-#User specific content
+# Giridhar Kota Infrasture Architect ( AWS | Devops | SAP | Backup and Storage | Linux | Windows )
+###User specific content
 primarylinks:
  - title: GitHub
    url: https://github.com/giridharkota/giridharkota.github.io/
