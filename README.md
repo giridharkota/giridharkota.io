@@ -2,9 +2,9 @@
 ## Infrasture Architect ( AWS | Devops | SAP | Backup & Storage | Linux | Windows )
 ###User specific content
 primarylinks:
- - title: GitHub
+ - GitHub
    url: https://github.com/giridharkota/giridharkota.github.io/
- - title: LinkedIn
+ -  LinkedIn
    url: https: https://www.linkedin.com/in/giridhar-kota/
    
 #Certification:
