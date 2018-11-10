@@ -1,5 +1,5 @@
 # Giridhar Kota 
-## Infrasture Architect ( AWS | Devops | SAP | Backup and Storage | Linux | Windows )
+## Infrasture Architect ( AWS | Devops | SAP | Backup & Storage | Linux | Windows )
 ###User specific content
 primarylinks:
  - title: GitHub
