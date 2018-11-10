@@ -35,7 +35,7 @@ github:
  - https://github.com/giridharkota/shell-script
  
 # Education
- # Master of Science (M.Sc.)
+ #Master of Science (M.Sc.)
  - Year: 1999
  - Subject: Masters in Electronics and Communication 
  - School: University of Archraya Nagarjuna University
@@ -59,7 +59,7 @@ Roles:
    employer: HP / HPE
    description: ITO Consulant - level 2-3
    
- - title: Server Management Engineer
+ - Title: Server Management Engineer
    start: 2005
    end: 2006
    employer: DS UNICS Infotech
