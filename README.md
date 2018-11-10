@@ -15,13 +15,16 @@ primarylinks:
   - ITIL v4
 
 #Skills: 
- - AWS Architech
- - GITHUB
- - Jenkins
- - Maven
- - Jfrong
- - Sonar
- - Docker
+ - AWS Architect
+ - Devops
+   - GITHUB
+   - Jenkins
+   - Maven
+   - Jfrong
+   - Sonar
+   - Docker
+   - kubernetes
+   - Shell Scripting
  - Infrasture support unix/Linux and windows
  - Backup and storage
  - SAP NW /HANA
