@@ -1,35 +1,16 @@
 # Giridhar Kota 
-## Infrastructure Architect ( AWS | Devops | SAP | Backup & Storage | Linux | Windows )
+## Giridhar | Sr. Consultant SAP HANA & BASIS | AWS & Azure | Backup & Storage 
 ###User specific content
-primarylinks:
- - GitHub
-   url: https://github.com/giridharkota/giridharkota.github.io/
- -  LinkedIn
-   url: https: https://www.linkedin.com/in/giridhar-kota/
-   
-#Certification:
-  -	AWS Certified Solutions Architect Associate -ACSAA
-  - HP Cloud Architect system Solutions - HP0-D14 
-  - HP Open view Data Protector 6.0 - HP-0918 
-  - Microsoft Certified System engineer -MCSE
-  - ITIL v4
 
-#Skills: 
- - AWS Architect
- - Devops
-   - GITHUB
-   - Jenkins
-   - Maven
-   - Jfrong
-   - Sonar
-   - Docker
-   - kubernetes
-   - Shell Scripting
- - Infrasture support unix/Linux and windows
- - Backup and storage
- - SAP NW /HANA
- - Bigdata - Cloudera
- 
+#Certification:
+1.	SAP Certified Technology Associate - SAP HANA 2.0 SAP Certified Technology Associate
+2.	SAP Certified Technology Specialist - SAP S/4HANA Conversion and SAP System Upgrade
+3.	AWS Certified Solutions Architect Associate -ACSAA
+4.	Microsoft Azure Certification AZ-900
+5.	HP Open view Data Protector 6.0 - HP-0918
+6.	Microsoft Certified System engineer - MCSE
+7.	ITIL v4
+
 #List of contribution - optional
 github:
  - https://github.com/giridharkota/shell-script
@@ -47,20 +28,29 @@ github:
 
 # Work experience
 Roles:
- - title: Delivery Lead / SME /Lead
+ - title: Sr Consultant, SAP HANA & Basis | part of Implementation / Build Team
    start: 2010
    end: Onging 
-   employer: HPE / EIT / DXC.Technology
+   employer: DXC.Technology
    description:	 
    
- - Title: ITO Consultent
-   start: 2006
-   end: 2010
-   employer: HP / HPE
-   description: ITO Consulant - level 2-3
-   
- - Title: Server Management Engineer
-   start: 2005
-   end: 2006
-   employer: DS UNICS Infotech
-   description: 
+- SAP HANA and HANA HA Implementation & Refresh
+- HANA HA implementation using HP Service Guard / Hana Replication
+SAP HANA Replication Implementation
+Homogeneous build using SWPM
+SAP HANA Sizing Green and Brown field
+System Migration with SUM DMO
+Knowledge on migration of SAP workloads on Azure
+Knowledge on Azure Site recovery
+Exports, Imports, License request and installation
+Backup and restore
+License request and Installation
+BDLS conversion
+LSN Creation and Propagation
+Configuring SNC, SPNego
+SAP HANA Patch Upgrades
+HANA Backup Integration with TSM backup Tool. 
+Restoring HANA DB files from TSM to local system 
+Backup and restore System DB and Tenant DB
+HANA Backup File Consistency Check
+SAP Migration Planning and Implementation
